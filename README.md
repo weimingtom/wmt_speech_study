@@ -3,7 +3,7 @@ My speech recognition study, include Raspberry Pi
 
 ## 1. Hardware, Input Devices  
 
-### (1.1) Seeed, ReSpeaker_2_Mics_Pi_HAT  
+### (1.1) Seeed, ReSpeaker_2_Mics_Pi_HAT, WM8960    
 * http://wiki.seeedstudio.com/cn/ReSpeaker_2_Mics_Pi_HAT/  
 * https://github.com/respeaker/seeed-voicecard  
 * aplay -l  
