@@ -26,7 +26,7 @@ http://wiki.seeedstudio.com/cn/Music_Shield_V2.2/
 
 ## 2. Software, python    
 
-### Smart_fan.py  
+### (2.1) Smart_fan.py  
 https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/baidu_STT/Smart_fan.py  
 https://console.bce.baidu.com/ai/?fromai=1#/ai/speech/overview/index  
 sudo apt install mpg123  
