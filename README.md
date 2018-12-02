@@ -23,3 +23,18 @@ http://www.waveshare.net/wiki/Music_Shield
 
 ### (1.5) Seeed, Music_Shield_V2.2  
 http://wiki.seeedstudio.com/cn/Music_Shield_V2.2/  
+
+## 2. Software, python    
+
+### Smart_fan.py  
+https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/baidu_STT/Smart_fan.py  
+https://console.bce.baidu.com/ai/?fromai=1#/ai/speech/overview/index  
+sudo apt install mpg123  
+sudo apt-get install portaudio19-dev  
+(for pyaudio)  
+pip install baidu-aip monotonic pyaudio  
+cd src/baidu_STT  
+nano Smart_Fan.py  
+(for APP_ID, API_KEY, SECRET_KEY)  
+python Smart_Fan.py  
+http://wiki.seeedstudio.com/cn/ReSpeaker_2_Mics_Pi_HAT/  
