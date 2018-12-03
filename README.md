@@ -5,6 +5,7 @@ My speech recognition study, include Raspberry Pi
 
 ### (1.1) Seeed, ReSpeaker_2_Mics_Pi_HAT, WM8960    
 * http://wiki.seeedstudio.com/cn/ReSpeaker_2_Mics_Pi_HAT/  
+* https://www.yahboom.com/study/ReSpeaker_Pi  
 * https://github.com/respeaker/seeed-voicecard  
 * aplay -l  
 * arecord -l  
@@ -38,3 +39,5 @@ nano Smart_Fan.py
 (for APP_ID, API_KEY, SECRET_KEY)  
 python Smart_Fan.py  
 http://wiki.seeedstudio.com/cn/ReSpeaker_2_Mics_Pi_HAT/  
+https://www.yahboom.com/build.html?id=1790&cid=230  
+
