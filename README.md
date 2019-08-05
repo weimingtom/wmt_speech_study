@@ -38,6 +38,10 @@ VS1053模块 MP3模块开发板 解码板 板载录音功能
 ### (1.8) 信泰微, ICRoute, LD3320 / LD3321  
 http://www.icroute.com  
 
+### (1.9) waveshare, LD3320  
+http://www.waveshare.net/wiki/LD3320_Board  
+http://www.waveshare.net/wiki/LD3320_Board_(B)  
+
 ## 2. Software, Raspberry Pi, Python    
 
 ### (2.1) Smart_fan.py  
