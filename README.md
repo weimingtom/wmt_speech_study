@@ -1,5 +1,8 @@
 # wmt_speech_study
-My speech recognition study, include Raspberry Pi
+My speech recognition study, include Raspberry Pi  
+
+## Ref  
+* https://github.com/weimingtom/wmt_ai_study  
 
 ## 1. Hardware, Input Devices  
 
@@ -30,7 +33,7 @@ https://github.com/Seeed-Studio/Music_Shield
 ### (1.6) 信泰微  
 VS1053模块 MP3模块开发板 解码板 板载录音功能  
 
-## 2. Software, python    
+## 2. Software, Raspberry Pi, Python    
 
 ### (2.1) Smart_fan.py  
 https://github.com/SeeedDocument/MIC_HATv1.0_for_raspberrypi/blob/master/src/baidu_STT/Smart_fan.py  
