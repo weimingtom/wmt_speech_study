@@ -42,6 +42,9 @@ http://www.icroute.com
 http://www.waveshare.net/wiki/LD3320_Board  
 http://www.waveshare.net/wiki/LD3320_Board_(B)  
 
+### (1.10) 51人工智能, 适用于树莓派 raspberrypi 2/3B+ 麦克风话筒USB免驱音质高清低噪     
+(search baidupan) 树莓派麦克风教程.docx  
+
 ## 2. Software, Raspberry Pi, Python    
 
 ### (2.1) Smart_fan.py  
