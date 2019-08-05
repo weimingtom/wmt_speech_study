@@ -30,8 +30,10 @@ http://wiki.seeedstudio.com/cn/Music_Shield_V2.2/
 https://github.com/jdkoftinoff/jdksmidi  
 https://github.com/Seeed-Studio/Music_Shield  
 
-### (1.6) 信泰微  
+### (1.6) 信泰微, VS1053模块    
 VS1053模块 MP3模块开发板 解码板 板载录音功能  
+
+### (1.7) 优信, 信泰微, 科大讯飞, XFS5152CE  
 
 ## 2. Software, Raspberry Pi, Python    
 
