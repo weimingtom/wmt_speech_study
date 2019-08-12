@@ -45,6 +45,10 @@ http://www.waveshare.net/wiki/LD3320_Board_(B)
 ### (1.10) 51人工智能, 适用于树莓派 raspberrypi 2/3B+ 麦克风话筒USB免驱音质高清低噪     
 (search baidupan) 树莓派麦克风教程.docx  
 
+### (1.11) seeed, Azure IoT Edge    
+https://github.com/Azure-Samples/azure-iot-starter-kits/tree/master/seeed  
+https://github.com/Azure-Samples/azure-iot-starter-kits/tree/master/seeed/3-speech-recognizer/modules/speech-to-text  
+
 ## 2. Software, Raspberry Pi, Python    
 
 ### (2.1) Smart_fan.py  
