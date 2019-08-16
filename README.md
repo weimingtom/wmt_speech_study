@@ -68,3 +68,8 @@ https://www.yahboom.com/build.html?id=1790&cid=230
 ## 3. SoftWare, PC  
 * AutoPiano  
 https://github.com/WarpPrism/AutoPiano  
+
+## 4. Software, Raspberry Pi  
+* 手把手教你做树莓派语音识别，文本变语音  
+http://www.jackxiang.com/post/7637/  
+https://github.com/weimingtom/wmt_rpi_study/tree/master  
